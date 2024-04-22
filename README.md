@@ -1,4 +1,4 @@
-# yolov8-object-tracking 
+# Drone Object Detection Using YOLOv8
 #### [ultralytics==8.0.0]
 
 
